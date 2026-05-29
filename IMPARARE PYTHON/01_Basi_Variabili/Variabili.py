@@ -1,3 +1,6 @@
+#----------------------------------------
+# ESEMPIO DI VARIABILI
+
 nome = "Alessio"
 cognome = "Rossi"
 eta = 27 

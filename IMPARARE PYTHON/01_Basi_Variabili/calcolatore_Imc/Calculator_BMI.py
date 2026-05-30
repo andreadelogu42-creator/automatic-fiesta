@@ -6,7 +6,7 @@
 name = input("Name: ").strip().tiitle()
 weight = int(input("Weight in (kg): "))
 height = float(input("Height(in m, es 1.75): "))
-eta = int(input(Età: ")
+age = int(input(Age: ")
                 
 # Calculation of BMI
 bmi = weight / (height ** 2)

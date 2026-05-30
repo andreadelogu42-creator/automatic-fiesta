@@ -37,7 +37,7 @@ print(result)
 
 #---------------------------------------------
 """
-result = 10 / 2 # da resto 3.333333333333333 
+result = 10 / 2 # rest of 3.333333333333333 
 print(result)
 #--------------------------------------------
 """
@@ -51,7 +51,7 @@ print(result)
 """
 # Con il modulo % 
 """
-result = 10 % 3 # resto della divisone: 3 *= 9 + 1 = 10 
+result = 10 % 3 # rest of the division: 3 *= 9 + 1 = 10 
 print(result)
 """
 #----------------------------------------------------------
@@ -59,5 +59,5 @@ print(result)
 # Esercizio 
 
 eta = 32 
-eta += 1 # Incrementa di 1
+eta += 1 # Boost of 1
 print(eta)
